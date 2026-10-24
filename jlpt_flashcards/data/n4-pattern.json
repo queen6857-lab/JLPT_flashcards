@@ -1,0 +1,1888 @@
+[
+  {
+    "id": "p0001",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜たら",
+    "meanings": [
+      "~하면",
+      "~했더니",
+      "~하니까"
+    ],
+    "example": {
+      "text": "駅に着いたら、電話してください。",
+      "reading": "えきについたら、でんわしてください。",
+      "ko": "역에 도착하면 전화해 주세요."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0002",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ば",
+    "meanings": [
+      "~하면"
+    ],
+    "example": {
+      "text": "安ければ、買います。",
+      "reading": "やすければ、かいます。",
+      "ko": "싸면 사겠습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0003",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜と(조건)",
+    "meanings": [
+      "~하면",
+      "~하자"
+    ],
+    "example": {
+      "text": "春になると、桜が咲きます。",
+      "reading": "はるになると、さくらがさきます。",
+      "ko": "봄이 되면 벚꽃이 핍니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0004",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜なら",
+    "meanings": [
+      "~라면",
+      "~한다면"
+    ],
+    "example": {
+      "text": "京都へ行くなら、秋がいいですよ。",
+      "reading": "きょうとへいくなら、あきがいいですよ。",
+      "ko": "교토에 간다면 가을이 좋아요."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0005",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ても",
+    "meanings": [
+      "~해도",
+      "~하더라도"
+    ],
+    "example": {
+      "text": "雨が降っても、試合をします。",
+      "reading": "あめがふっても、しあいをします。",
+      "ko": "비가 와도 시합을 합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0006",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ば〜ほど",
+    "meanings": [
+      "~하면 ~할수록"
+    ],
+    "example": {
+      "text": "練習すればするほど上手になります。",
+      "reading": "れんしゅうすればするほどじょうずになります。",
+      "ko": "연습하면 할수록 능숙해집니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0007",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜場合は",
+    "meanings": [
+      "~할 경우에는",
+      "~인 경우에는"
+    ],
+    "example": {
+      "text": "火事の場合は、エレベーターを使わないでください。",
+      "reading": "かじのばあいは、エレベーターをつかわないでください。",
+      "ko": "화재 시에는 엘리베이터를 사용하지 마세요."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0008",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜なければならない",
+    "meanings": [
+      "~해야 한다",
+      "~하지 않으면 안 된다"
+    ],
+    "example": {
+      "text": "明日までに宿題を出さなければなりません。",
+      "reading": "あしたまでにしゅくだいをださなければなりません。",
+      "ko": "내일까지 숙제를 내야 합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0009",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜なくてはいけない",
+    "meanings": [
+      "~해야 한다",
+      "~하지 않으면 안 된다"
+    ],
+    "example": {
+      "text": "毎日薬を飲まなくてはいけません。",
+      "reading": "まいにちくすりをのまなくてはいけません。",
+      "ko": "매일 약을 먹어야 합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0010",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜なくてもいい",
+    "meanings": [
+      "~하지 않아도 된다"
+    ],
+    "example": {
+      "text": "明日は来なくてもいいです。",
+      "reading": "あしたはこなくてもいいです。",
+      "ko": "내일은 오지 않아도 됩니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0011",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てもかまわない",
+    "meanings": [
+      "~해도 상관없다",
+      "~해도 괜찮다"
+    ],
+    "example": {
+      "text": "ここで写真を撮ってもかまいません。",
+      "reading": "ここでしゃしんをとってもかまいません。",
+      "ko": "여기서 사진을 찍어도 상관없습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0012",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てはいけない",
+    "meanings": [
+      "~하면 안 된다",
+      "~해서는 안 된다"
+    ],
+    "example": {
+      "text": "ここでたばこを吸ってはいけません。",
+      "reading": "ここでたばこをすってはいけません。",
+      "ko": "여기서 담배를 피우면 안 됩니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0013",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜なさい",
+    "meanings": [
+      "~하거라",
+      "~하렴",
+      "~하세요(명령)"
+    ],
+    "example": {
+      "text": "早く寝なさい。",
+      "reading": "はやくねなさい。",
+      "ko": "빨리 자거라."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0014",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜な(금지)",
+    "meanings": [
+      "~하지 마"
+    ],
+    "example": {
+      "text": "ここで泳ぐな。",
+      "reading": "ここでおよぐな。",
+      "ko": "여기서 수영하지 마."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0015",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ろ・〜え(명령형)",
+    "meanings": [
+      "~해라"
+    ],
+    "example": {
+      "text": "早く起きろ。",
+      "reading": "はやくおきろ。",
+      "ko": "빨리 일어나라."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0016",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜そうだ(양태)",
+    "meanings": [
+      "~할 것 같다",
+      "~해 보인다"
+    ],
+    "example": {
+      "text": "このケーキはおいしそうです。",
+      "reading": "このケーキはおいしそうです。",
+      "ko": "이 케이크는 맛있어 보입니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0017",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜そうだ(전문)",
+    "meanings": [
+      "~라고 한다"
+    ],
+    "example": {
+      "text": "天気予報によると、明日は雨が降るそうです。",
+      "reading": "てんきよほうによると、あしたはあめがふるそうです。",
+      "ko": "일기 예보에 따르면 내일은 비가 온다고 합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0018",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ようだ",
+    "meanings": [
+      "~인 것 같다",
+      "~인 듯하다"
+    ],
+    "example": {
+      "text": "誰か来たようです。",
+      "reading": "だれかきたようです。",
+      "ko": "누군가 온 것 같습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0019",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜みたいだ",
+    "meanings": [
+      "~인 것 같다",
+      "~같다"
+    ],
+    "example": {
+      "text": "あの人は先生みたいです。",
+      "reading": "あのひとはせんせいみたいです。",
+      "ko": "저 사람은 선생님인 것 같습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0020",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜らしい",
+    "meanings": [
+      "~인 것 같다",
+      "~라고 한다",
+      "~답다"
+    ],
+    "example": {
+      "text": "田中さんは来月結婚するらしいです。",
+      "reading": "たなかさんはらいげつけっこんするらしいです。",
+      "ko": "다나카 씨는 다음 달에 결혼한다고 합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0021",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜かもしれない",
+    "meanings": [
+      "~일지도 모른다"
+    ],
+    "example": {
+      "text": "午後は雨が降るかもしれません。",
+      "reading": "ごごはあめがふるかもしれません。",
+      "ko": "오후에는 비가 올지도 모릅니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0022",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜はずだ",
+    "meanings": [
+      "~할 것이다",
+      "~할 터이다"
+    ],
+    "example": {
+      "text": "彼はもう家に着いたはずです。",
+      "reading": "かれはもういえについたはずです。",
+      "ko": "그는 벌써 집에 도착했을 것입니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0023",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜はずがない",
+    "meanings": [
+      "~할 리가 없다"
+    ],
+    "example": {
+      "text": "あの店が休みのはずがありません。",
+      "reading": "あのみせがやすみのはずがありません。",
+      "ko": "그 가게가 쉴 리가 없습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0024",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜だろう",
+    "meanings": [
+      "~일 것이다",
+      "~겠지"
+    ],
+    "example": {
+      "text": "明日はたぶん晴れるだろう。",
+      "reading": "あしたはたぶんはれるだろう。",
+      "ko": "내일은 아마 맑겠지."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0025",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜でしょう(확인)",
+    "meanings": [
+      "~이죠",
+      "~지요"
+    ],
+    "example": {
+      "text": "これ、あなたの傘でしょう。",
+      "reading": "これ、あなたのかさでしょう。",
+      "ko": "이거 당신 우산이죠?"
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0026",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜かな",
+    "meanings": [
+      "~일까",
+      "~려나"
+    ],
+    "example": {
+      "text": "明日は晴れるかな。",
+      "reading": "あしたははれるかな。",
+      "ko": "내일은 맑으려나."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0027",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜と思う",
+    "meanings": [
+      "~라고 생각하다"
+    ],
+    "example": {
+      "text": "この映画はおもしろいと思います。",
+      "reading": "このえいがはおもしろいとおもいます。",
+      "ko": "이 영화는 재미있다고 생각합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0028",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜がする",
+    "meanings": [
+      "~이 나다",
+      "~이 들다"
+    ],
+    "example": {
+      "text": "台所からいい匂いがします。",
+      "reading": "だいどころからいいにおいがします。",
+      "ko": "부엌에서 좋은 냄새가 납니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0029",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜(よ)うと思う",
+    "meanings": [
+      "~하려고 생각하다",
+      "~하려고 하다"
+    ],
+    "example": {
+      "text": "夏休みに日本へ行こうと思います。",
+      "reading": "なつやすみににほんへいこうとおもいます。",
+      "ko": "여름 방학에 일본에 가려고 합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0030",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜(よ)うとする",
+    "meanings": [
+      "~하려고 하다"
+    ],
+    "example": {
+      "text": "家を出ようとした時、電話が鳴りました。",
+      "reading": "いえをでようとしたとき、でんわがなりました。",
+      "ko": "집을 나서려고 할 때 전화가 울렸습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0031",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜つもりだ",
+    "meanings": [
+      "~할 생각이다",
+      "~할 작정이다"
+    ],
+    "example": {
+      "text": "来年、大学院に入るつもりです。",
+      "reading": "らいねん、だいがくいんにはいるつもりです。",
+      "ko": "내년에 대학원에 들어갈 생각입니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0032",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜予定だ",
+    "meanings": [
+      "~할 예정이다"
+    ],
+    "example": {
+      "text": "明日は友達に会う予定です。",
+      "reading": "あしたはともだちにあうよていです。",
+      "ko": "내일은 친구를 만날 예정입니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0033",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ことにする",
+    "meanings": [
+      "~하기로 하다"
+    ],
+    "example": {
+      "text": "毎朝運動することにしました。",
+      "reading": "まいあさうんどうすることにしました。",
+      "ko": "매일 아침 운동하기로 했습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0034",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ことになる",
+    "meanings": [
+      "~하게 되다",
+      "~하기로 되다"
+    ],
+    "example": {
+      "text": "来月、大阪に転勤することになりました。",
+      "reading": "らいげつ、おおさかにてんきんすることになりました。",
+      "ko": "다음 달 오사카로 전근 가게 되었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0035",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜にする",
+    "meanings": [
+      "~으로 하다(선택)"
+    ],
+    "example": {
+      "text": "飲み物はコーヒーにします。",
+      "reading": "のみものはコーヒーにします。",
+      "ko": "음료는 커피로 하겠습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0036",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜くする・〜にする",
+    "meanings": [
+      "~하게 하다"
+    ],
+    "example": {
+      "text": "音を小さくしてください。",
+      "reading": "おとをちいさくしてください。",
+      "ko": "소리를 작게 해 주세요."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0037",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ようにする",
+    "meanings": [
+      "~하도록 하다",
+      "~하도록 노력하다"
+    ],
+    "example": {
+      "text": "毎日野菜を食べるようにしています。",
+      "reading": "まいにちやさいをたべるようにしています。",
+      "ko": "매일 채소를 먹도록 하고 있습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0038",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ようになる",
+    "meanings": [
+      "~하게 되다"
+    ],
+    "example": {
+      "text": "日本語が話せるようになりました。",
+      "reading": "にほんごがはなせるようになりました。",
+      "ko": "일본어를 말할 수 있게 되었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0039",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜なくなる",
+    "meanings": [
+      "~하지 않게 되다"
+    ],
+    "example": {
+      "text": "最近、テレビを見なくなりました。",
+      "reading": "さいきん、テレビをみなくなりました。",
+      "ko": "요즘 텔레비전을 안 보게 되었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0040",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ように(목적)",
+    "meanings": [
+      "~하도록",
+      "~할 수 있도록"
+    ],
+    "example": {
+      "text": "忘れないように、メモします。",
+      "reading": "わすれないように、メモします。",
+      "ko": "잊지 않도록 메모합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0041",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜ように言う",
+    "meanings": [
+      "~하라고 말하다"
+    ],
+    "example": {
+      "text": "先生に静かにするように言われました。",
+      "reading": "せんせいにしずかにするようにいわれました。",
+      "ko": "선생님께 조용히 하라는 말을 들었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0042",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ために",
+    "meanings": [
+      "~하기 위해",
+      "~때문에"
+    ],
+    "example": {
+      "text": "日本へ留学するために、お金を貯めています。",
+      "reading": "にほんへりゅうがくするために、おかねをためています。",
+      "ko": "일본에 유학하기 위해 돈을 모으고 있습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0043",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜のに(역접)",
+    "meanings": [
+      "~한데도",
+      "~는데"
+    ],
+    "example": {
+      "text": "薬を飲んだのに、まだ熱があります。",
+      "reading": "くすりをのんだのに、まだねつがあります。",
+      "ko": "약을 먹었는데도 아직 열이 있습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0044",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜のに(용도)",
+    "meanings": [
+      "~하는 데"
+    ],
+    "example": {
+      "text": "この箱は本を運ぶのに便利です。",
+      "reading": "このはこはほんをはこぶのにべんりです。",
+      "ko": "이 상자는 책을 나르는 데 편리합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0045",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜けど",
+    "meanings": [
+      "~지만",
+      "~는데"
+    ],
+    "example": {
+      "text": "この服は高いけど、とてもいいです。",
+      "reading": "このふくはたかいけど、とてもいいです。",
+      "ko": "이 옷은 비싸지만 아주 좋습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0046",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ので",
+    "meanings": [
+      "~이므로",
+      "~해서",
+      "~때문에"
+    ],
+    "example": {
+      "text": "熱があるので、学校を休みます。",
+      "reading": "ねつがあるので、がっこうをやすみます。",
+      "ko": "열이 있어서 학교를 쉽니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0047",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜て(이유)",
+    "meanings": [
+      "~해서"
+    ],
+    "example": {
+      "text": "風邪をひいて、学校を休みました。",
+      "reading": "かぜをひいて、がっこうをやすみました。",
+      "ko": "감기에 걸려서 학교를 쉬었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0048",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜し、〜し",
+    "meanings": [
+      "~하고 ~하고",
+      "~하기도 하고"
+    ],
+    "example": {
+      "text": "この店は安いし、おいしいし、よく来ます。",
+      "reading": "このみせはやすいし、おいしいし、よくきます。",
+      "ko": "이 가게는 싸고 맛있어서 자주 옵니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0049",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜とか",
+    "meanings": [
+      "~라든가",
+      "~든지"
+    ],
+    "example": {
+      "text": "休みの日は映画とか買い物とかに行きます。",
+      "reading": "やすみのひはえいがとかかいものとかにいきます。",
+      "ko": "쉬는 날에는 영화라든가 쇼핑 같은 데 갑니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0050",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ながら",
+    "meanings": [
+      "~하면서"
+    ],
+    "example": {
+      "text": "音楽を聞きながら勉強します。",
+      "reading": "おんがくをききながらべんきょうします。",
+      "ko": "음악을 들으면서 공부합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0051",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ないで",
+    "meanings": [
+      "~하지 않고",
+      "~하지 말고"
+    ],
+    "example": {
+      "text": "朝ご飯を食べないで学校へ行きました。",
+      "reading": "あさごはんをたべないでがっこうへいきました。",
+      "ko": "아침을 먹지 않고 학교에 갔습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0052",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ずに",
+    "meanings": [
+      "~하지 않고"
+    ],
+    "example": {
+      "text": "辞書を使わずに読みました。",
+      "reading": "じしょをつかわずによみました。",
+      "ko": "사전을 쓰지 않고 읽었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0053",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜まま",
+    "meanings": [
+      "~한 채로",
+      "~그대로"
+    ],
+    "example": {
+      "text": "電気をつけたまま寝てしまいました。",
+      "reading": "でんきをつけたままねてしまいました。",
+      "ko": "불을 켠 채로 자 버렸습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0054",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てしまう",
+    "meanings": [
+      "~해 버리다",
+      "~하고 말다"
+    ],
+    "example": {
+      "text": "財布を忘れてしまいました。",
+      "reading": "さいふをわすれてしまいました。",
+      "ko": "지갑을 잊어버리고 말았습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0055",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ちゃう・〜じゃう",
+    "meanings": [
+      "~해 버리다(구어)"
+    ],
+    "example": {
+      "text": "ケーキを全部食べちゃった。",
+      "reading": "ケーキをぜんぶたべちゃった。",
+      "ko": "케이크를 전부 먹어 버렸어."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0056",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ておく",
+    "meanings": [
+      "~해 두다",
+      "~해 놓다"
+    ],
+    "example": {
+      "text": "旅行の前にホテルを予約しておきます。",
+      "reading": "りょこうのまえにホテルをよやくしておきます。",
+      "ko": "여행 전에 호텔을 예약해 둡니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0057",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てある",
+    "meanings": [
+      "~해져 있다",
+      "~되어 있다"
+    ],
+    "example": {
+      "text": "壁に絵が掛けてあります。",
+      "reading": "かべにえがかけてあります。",
+      "ko": "벽에 그림이 걸려 있습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0058",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てみる",
+    "meanings": [
+      "~해 보다"
+    ],
+    "example": {
+      "text": "この服を着てみてもいいですか。",
+      "reading": "このふくをきてみてもいいですか。",
+      "ko": "이 옷을 입어 봐도 됩니까?"
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0059",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てくる",
+    "meanings": [
+      "~해 오다",
+      "~하기 시작하다"
+    ],
+    "example": {
+      "text": "だんだん寒くなってきました。",
+      "reading": "だんだんさむくなってきました。",
+      "ko": "점점 추워지기 시작했습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0060",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ていく",
+    "meanings": [
+      "~해 가다",
+      "~해 나가다"
+    ],
+    "example": {
+      "text": "これからも日本語を勉強していきます。",
+      "reading": "これからもにほんごをべんきょうしていきます。",
+      "ko": "앞으로도 일본어를 공부해 나가겠습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0061",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ところだ",
+    "meanings": [
+      "~하려던 참이다"
+    ],
+    "example": {
+      "text": "今から出かけるところです。",
+      "reading": "いまからでかけるところです。",
+      "ko": "지금 막 나가려던 참입니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0062",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ているところだ",
+    "meanings": [
+      "~하고 있는 중이다"
+    ],
+    "example": {
+      "text": "今、晩ご飯を作っているところです。",
+      "reading": "いま、ばんごはんをつくっているところです。",
+      "ko": "지금 저녁밥을 만들고 있는 중입니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0063",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜たところだ",
+    "meanings": [
+      "막 ~했다"
+    ],
+    "example": {
+      "text": "今、駅に着いたところです。",
+      "reading": "いま、えきについたところです。",
+      "ko": "지금 막 역에 도착했습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0064",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜たばかりだ",
+    "meanings": [
+      "~한 지 얼마 안 되다",
+      "막 ~했다"
+    ],
+    "example": {
+      "text": "日本に来たばかりです。",
+      "reading": "にほんにきたばかりです。",
+      "ko": "일본에 온 지 얼마 안 됐습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0065",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜始める",
+    "meanings": [
+      "~하기 시작하다"
+    ],
+    "example": {
+      "text": "去年から日本語を習い始めました。",
+      "reading": "きょねんからにほんごをならいはじめました。",
+      "ko": "작년부터 일본어를 배우기 시작했습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0066",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜出す",
+    "meanings": [
+      "~하기 시작하다(갑자기)"
+    ],
+    "example": {
+      "text": "急に雨が降り出しました。",
+      "reading": "きゅうにあめがふりだしました。",
+      "ko": "갑자기 비가 내리기 시작했습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0067",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜終わる",
+    "meanings": [
+      "다 ~하다",
+      "~하기를 끝내다"
+    ],
+    "example": {
+      "text": "この本はもう読み終わりました。",
+      "reading": "このほんはもうよみおわりました。",
+      "ko": "이 책은 벌써 다 읽었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0068",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜続ける",
+    "meanings": [
+      "계속 ~하다"
+    ],
+    "example": {
+      "text": "一時間歩き続けました。",
+      "reading": "いちじかんあるきつづけました。",
+      "ko": "한 시간 동안 계속 걸었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0069",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜間",
+    "meanings": [
+      "~하는 동안"
+    ],
+    "example": {
+      "text": "夏休みの間、ずっと国にいました。",
+      "reading": "なつやすみのあいだ、ずっとくににいました。",
+      "ko": "여름 방학 동안 계속 고국에 있었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0070",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜間に",
+    "meanings": [
+      "~하는 동안에",
+      "~사이에"
+    ],
+    "example": {
+      "text": "母が寝ている間に、料理を作りました。",
+      "reading": "ははがねているあいだに、りょうりをつくりました。",
+      "ko": "어머니가 주무시는 사이에 요리를 만들었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0071",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜うちに",
+    "meanings": [
+      "~하는 동안에",
+      "~할 때"
+    ],
+    "example": {
+      "text": "温かいうちに食べてください。",
+      "reading": "あたたかいうちにたべてください。",
+      "ko": "따뜻할 때 드세요."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0072",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜までに",
+    "meanings": [
+      "~까지(기한)"
+    ],
+    "example": {
+      "text": "金曜日までにレポートを出してください。",
+      "reading": "きんようびまでにレポートをだしてください。",
+      "ko": "금요일까지 리포트를 내 주세요."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0073",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜おきに",
+    "meanings": [
+      "~걸러",
+      "~간격으로"
+    ],
+    "example": {
+      "text": "この電車は十分おきに来ます。",
+      "reading": "このでんしゃはじゅっぷんおきにきます。",
+      "ko": "이 전철은 10분 간격으로 옵니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0074",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ことがある",
+    "meanings": [
+      "~할 때가 있다",
+      "~하는 경우가 있다"
+    ],
+    "example": {
+      "text": "時々、朝ご飯を食べないことがあります。",
+      "reading": "ときどき、あさごはんをたべないことがあります。",
+      "ko": "가끔 아침을 안 먹을 때가 있습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0075",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てあげる",
+    "meanings": [
+      "~해 주다"
+    ],
+    "example": {
+      "text": "友達に傘を貸してあげました。",
+      "reading": "ともだちにかさをかしてあげました。",
+      "ko": "친구에게 우산을 빌려주었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0076",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てやる",
+    "meanings": [
+      "~해 주다(아랫사람·동물에게)"
+    ],
+    "example": {
+      "text": "弟に宿題を教えてやりました。",
+      "reading": "おとうとにしゅくだいをおしえてやりました。",
+      "ko": "남동생에게 숙제를 가르쳐 주었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0077",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てくれる",
+    "meanings": [
+      "(남이 나에게) ~해 주다"
+    ],
+    "example": {
+      "text": "友達が駅まで送ってくれました。",
+      "reading": "ともだちがえきまでおくってくれました。",
+      "ko": "친구가 역까지 바래다주었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0078",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てくださる",
+    "meanings": [
+      "~해 주시다"
+    ],
+    "example": {
+      "text": "先生が道を教えてくださいました。",
+      "reading": "せんせいがみちをおしえてくださいました。",
+      "ko": "선생님께서 길을 알려 주셨습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0079",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てもらう",
+    "meanings": [
+      "~해 받다",
+      "(남이) ~해 주다"
+    ],
+    "example": {
+      "text": "先生に作文を直してもらいました。",
+      "reading": "せんせいにさくぶんをなおしてもらいました。",
+      "ko": "선생님이 작문을 고쳐 주셨습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0080",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ていただく",
+    "meanings": [
+      "~해 받다(겸양)",
+      "~해 주시다"
+    ],
+    "example": {
+      "text": "先生に手紙を読んでいただきました。",
+      "reading": "せんせいにてがみをよんでいただきました。",
+      "ko": "선생님께서 편지를 읽어 주셨습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0081",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てもらえませんか",
+    "meanings": [
+      "~해 줄 수 없겠습니까"
+    ],
+    "example": {
+      "text": "ちょっと手伝ってもらえませんか。",
+      "reading": "ちょっとてつだってもらえませんか。",
+      "ko": "좀 도와줄 수 없을까요?"
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0082",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ていただけませんか",
+    "meanings": [
+      "~해 주실 수 없겠습니까"
+    ],
+    "example": {
+      "text": "もう一度説明していただけませんか。",
+      "reading": "もういちどせつめいしていただけませんか。",
+      "ko": "한 번 더 설명해 주실 수 없겠습니까?"
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0083",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てほしい",
+    "meanings": [
+      "~해 주었으면 하다",
+      "~하길 바라다"
+    ],
+    "example": {
+      "text": "母に元気でいてほしいです。",
+      "reading": "ははにげんきでいてほしいです。",
+      "ko": "어머니가 건강하셨으면 좋겠습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0084",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜(ら)れる(수동)",
+    "meanings": [
+      "~받다",
+      "~당하다",
+      "~되다"
+    ],
+    "example": {
+      "text": "弟にケーキを食べられました。",
+      "reading": "おとうとにケーキをたべられました。",
+      "ko": "남동생이 케이크를 먹어 버렸습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0085",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜(さ)せる(사역)",
+    "meanings": [
+      "~하게 하다",
+      "~시키다"
+    ],
+    "example": {
+      "text": "母は子供に野菜を食べさせます。",
+      "reading": "はははこどもにやさいをたべさせます。",
+      "ko": "어머니는 아이에게 채소를 먹게 합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0086",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜(さ)せられる(사역수동)",
+    "meanings": [
+      "억지로 ~하다",
+      "마지못해 ~하다"
+    ],
+    "example": {
+      "text": "子供の時、母にピアノを習わせられました。",
+      "reading": "こどものとき、ははにピアノをならわせられました。",
+      "ko": "어렸을 때 어머니 때문에 억지로 피아노를 배웠습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0087",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜(さ)せてください",
+    "meanings": [
+      "~하게 해 주세요"
+    ],
+    "example": {
+      "text": "少し休ませてください。",
+      "reading": "すこしやすませてください。",
+      "ko": "좀 쉬게 해 주세요."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0088",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜(ら)れる(가능)",
+    "meanings": [
+      "~할 수 있다"
+    ],
+    "example": {
+      "text": "私は刺身が食べられます。",
+      "reading": "わたしはさしみがたべられます。",
+      "ko": "저는 회를 먹을 수 있습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0089",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ことができる",
+    "meanings": [
+      "~할 수 있다"
+    ],
+    "example": {
+      "text": "この図書館では本を十冊借りることができます。",
+      "reading": "このとしょかんではほんをじゅっさつかりることができます。",
+      "ko": "이 도서관에서는 책을 열 권 빌릴 수 있습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0090",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "お〜になる",
+    "meanings": [
+      "~하시다(존경)"
+    ],
+    "example": {
+      "text": "先生はもうお帰りになりました。",
+      "reading": "せんせいはもうおかえりになりました。",
+      "ko": "선생님은 벌써 돌아가셨습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0091",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "お〜する",
+    "meanings": [
+      "~해 드리다(겸양)"
+    ],
+    "example": {
+      "text": "荷物をお持ちします。",
+      "reading": "にもつをおもちします。",
+      "ko": "짐을 들어 드리겠습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0092",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜させていただく",
+    "meanings": [
+      "~하겠습니다(겸양)"
+    ],
+    "example": {
+      "text": "では、説明させていただきます。",
+      "reading": "では、せつめいさせていただきます。",
+      "ko": "그럼 설명하겠습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0093",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜やすい",
+    "meanings": [
+      "~하기 쉽다",
+      "~하기 편하다"
+    ],
+    "example": {
+      "text": "このペンは書きやすいです。",
+      "reading": "このペンはかきやすいです。",
+      "ko": "이 펜은 쓰기 편합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0094",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜にくい",
+    "meanings": [
+      "~하기 어렵다",
+      "~하기 힘들다"
+    ],
+    "example": {
+      "text": "この字は小さくて読みにくいです。",
+      "reading": "このじはちいさくてよみにくいです。",
+      "ko": "이 글씨는 작아서 읽기 어렵습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0095",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜すぎる",
+    "meanings": [
+      "너무 ~하다",
+      "지나치게 ~하다"
+    ],
+    "example": {
+      "text": "昨日は食べすぎました。",
+      "reading": "きのうはたべすぎました。",
+      "ko": "어제는 너무 많이 먹었습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0096",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜方(かた)",
+    "meanings": [
+      "~하는 방법",
+      "~하는 법"
+    ],
+    "example": {
+      "text": "この漢字の読み方を教えてください。",
+      "reading": "このかんじのよみかたをおしえてください。",
+      "ko": "이 한자 읽는 법을 가르쳐 주세요."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0097",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜たがる",
+    "meanings": [
+      "~하고 싶어 하다"
+    ],
+    "example": {
+      "text": "子供は外で遊びたがっています。",
+      "reading": "こどもはそとであそびたがっています。",
+      "ko": "아이는 밖에서 놀고 싶어 합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0098",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜がる",
+    "meanings": [
+      "~해하다",
+      "~하게 여기다"
+    ],
+    "example": {
+      "text": "妹は犬を怖がります。",
+      "reading": "いもうとはいぬをこわがります。",
+      "ko": "여동생은 개를 무서워합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0099",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜さ(명사화)",
+    "meanings": [
+      "~함",
+      "~기(정도)"
+    ],
+    "example": {
+      "text": "この橋の長さは百メートルです。",
+      "reading": "このはしのながさはひゃくメートルです。",
+      "ko": "이 다리의 길이는 100미터입니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0100",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜たほうがいい",
+    "meanings": [
+      "~하는 편이 좋다",
+      "~하는 게 낫다"
+    ],
+    "example": {
+      "text": "早く病院へ行ったほうがいいですよ。",
+      "reading": "はやくびょういんへいったほうがいいですよ。",
+      "ko": "빨리 병원에 가는 게 좋아요."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0101",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ないほうがいい",
+    "meanings": [
+      "~하지 않는 편이 좋다"
+    ],
+    "example": {
+      "text": "夜遅く食べないほうがいいです。",
+      "reading": "よるおそくたべないほうがいいです。",
+      "ko": "밤늦게 먹지 않는 편이 좋습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0102",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ばいい",
+    "meanings": [
+      "~하면 된다"
+    ],
+    "example": {
+      "text": "分からない時は、先生に聞けばいいです。",
+      "reading": "わからないときは、せんせいにきけばいいです。",
+      "ko": "모를 때는 선생님께 물으면 됩니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0103",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜たらどうですか",
+    "meanings": [
+      "~하는 게 어때요"
+    ],
+    "example": {
+      "text": "少し休んだらどうですか。",
+      "reading": "すこしやすんだらどうですか。",
+      "ko": "좀 쉬는 게 어때요?"
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0104",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ばよかった",
+    "meanings": [
+      "~했으면 좋았을걸"
+    ],
+    "example": {
+      "text": "もっと勉強すればよかったです。",
+      "reading": "もっとべんきょうすればよかったです。",
+      "ko": "더 공부했으면 좋았을걸."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0105",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てよかった",
+    "meanings": [
+      "~해서 다행이다",
+      "~하길 잘했다"
+    ],
+    "example": {
+      "text": "この大学に入ってよかったです。",
+      "reading": "このだいがくにはいってよかったです。",
+      "ko": "이 대학에 들어오길 잘했습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0106",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜てすみません",
+    "meanings": [
+      "~해서 죄송합니다"
+    ],
+    "example": {
+      "text": "遅れてすみません。",
+      "reading": "おくれてすみません。",
+      "ko": "늦어서 죄송합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0107",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜という",
+    "meanings": [
+      "~라는",
+      "~라고 하는"
+    ],
+    "example": {
+      "text": "「さくら」という店を知っていますか。",
+      "reading": "「さくら」というみせをしっていますか。",
+      "ko": "'사쿠라'라는 가게를 알고 있습니까?"
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0108",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜と言っていた",
+    "meanings": [
+      "~라고 말했다",
+      "~라고 하더라"
+    ],
+    "example": {
+      "text": "田中さんは明日休むと言っていました。",
+      "reading": "たなかさんはあしたやすむといっていました。",
+      "ko": "다나카 씨는 내일 쉰다고 했습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0109",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜によると",
+    "meanings": [
+      "~에 의하면",
+      "~에 따르면"
+    ],
+    "example": {
+      "text": "ニュースによると、昨日大きな地震があったそうです。",
+      "reading": "ニュースによると、きのうおおきなじしんがあったそうです。",
+      "ko": "뉴스에 따르면 어제 큰 지진이 있었다고 합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0110",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜について",
+    "meanings": [
+      "~에 대해",
+      "~에 관해"
+    ],
+    "example": {
+      "text": "日本の文化について発表します。",
+      "reading": "にほんのぶんかについてはっぴょうします。",
+      "ko": "일본 문화에 대해 발표합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0111",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜かどうか",
+    "meanings": [
+      "~인지 어떤지",
+      "~인지 아닌지"
+    ],
+    "example": {
+      "text": "明日行けるかどうか分かりません。",
+      "reading": "あしたいけるかどうかわかりません。",
+      "ko": "내일 갈 수 있을지 어떨지 모르겠습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0112",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜か(간접의문)",
+    "meanings": [
+      "~인지"
+    ],
+    "example": {
+      "text": "会議が何時に始まるか知っていますか。",
+      "reading": "かいぎがなんじにはじまるかしっていますか。",
+      "ko": "회의가 몇 시에 시작하는지 알고 있습니까?"
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0113",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜のは〜だ",
+    "meanings": [
+      "~하는 것은 ~이다"
+    ],
+    "example": {
+      "text": "私が好きなのは秋です。",
+      "reading": "わたしがすきなのはあきです。",
+      "ko": "제가 좋아하는 것은 가을입니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0114",
+    "type": "pattern",
+    "script": "kanji",
+    "display": "〜のが好きだ",
+    "meanings": [
+      "~하는 것을 좋아하다"
+    ],
+    "example": {
+      "text": "私は料理を作るのが好きです。",
+      "reading": "わたしはりょうりをつくるのがすきです。",
+      "ko": "저는 요리하는 것을 좋아합니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0115",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ほど〜ない",
+    "meanings": [
+      "~만큼 ~하지 않다"
+    ],
+    "example": {
+      "text": "今年の冬は去年ほど寒くないです。",
+      "reading": "ことしのふゆはきょねんほどさむくないです。",
+      "ko": "올해 겨울은 작년만큼 춥지 않습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0116",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ばかり",
+    "meanings": [
+      "~만",
+      "~뿐"
+    ],
+    "example": {
+      "text": "弟はゲームばかりしています。",
+      "reading": "おとうとはゲームばかりしています。",
+      "ko": "남동생은 게임만 하고 있습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0117",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜しか〜ない",
+    "meanings": [
+      "~밖에 ~않다"
+    ],
+    "example": {
+      "text": "財布に百円しかありません。",
+      "reading": "さいふにひゃくえんしかありません。",
+      "ko": "지갑에 100엔밖에 없습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0118",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜だけで",
+    "meanings": [
+      "~만으로",
+      "~하는 것만으로"
+    ],
+    "example": {
+      "text": "見るだけで楽しいです。",
+      "reading": "みるだけでたのしいです。",
+      "ko": "보는 것만으로도 즐겁습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0119",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜でも(예시)",
+    "meanings": [
+      "~라도",
+      "~이라도"
+    ],
+    "example": {
+      "text": "お茶でも飲みませんか。",
+      "reading": "おちゃでものみませんか。",
+      "ko": "차라도 마시지 않을래요?"
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0120",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜ずつ",
+    "meanings": [
+      "~씩"
+    ],
+    "example": {
+      "text": "毎日少しずつ漢字を覚えています。",
+      "reading": "まいにちすこしずつかんじをおぼえています。",
+      "ko": "매일 조금씩 한자를 외우고 있습니다."
+    },
+    "level": "N4"
+  },
+  {
+    "id": "p0121",
+    "type": "pattern",
+    "script": "hiragana",
+    "display": "〜も(강조)",
+    "meanings": [
+      "~이나",
+      "~씩이나"
+    ],
+    "example": {
+      "text": "昨日は十時間も寝ました。",
+      "reading": "きのうはじゅうじかんもねました。",
+      "ko": "어제는 10시간이나 잤습니다."
+    },
+    "level": "N4"
+  }
+]
